@@ -6,19 +6,19 @@
             "value": "162880ed-f5c0-4749-b306-2a6ae99db0de"
         },
         "name": {
-            "value": "sudiptapaasapp"
+            "value": "rakeshrg"
         },
         "location": {
-            "value": "North Europe"
+            "value": "South Europe"
         },
         "hostingEnvironment": {
             "value": ""
         },
         "hostingPlanName": {
-            "value": "sdpaasapp-plan"
+            "value": "rkpaasapp-plan"
         },
         "serverFarmResourceGroup": {
-            "value": "Sudipta_RG"
+            "value": "rakeshrg"
         },
         "alwaysOn": {
             "value": true
